@@ -1,14 +1,38 @@
 ## 🏆 **Featured Projects**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=ecommerce-mern&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-</div>
-
-## 🔥 **Coding Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&layout=compact" width="50%"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 Full Stack Projects</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-Projects-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+          <br><br>
+          <p><strong>🎯 E-Commerce Platform</strong><br/>
+          Full-featured online store with payment integration</p>
+          <p><strong>💼 Portfolio Website</strong><br/>
+          Modern responsive portfolio with animations</p>
+          <p><strong>🤖 AI Chat Application</strong><br/>
+          Real-time messaging with AI integration</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ Recent Work</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-Focused-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Cloud-Deploy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+          <br><br>
+          <p><strong>🌐 SaaS Dashboard</strong><br/>
+          Multi-tenant dashboard with analytics</p>
+          <p><strong>📱 Mobile App Backend</strong><br/>
+          RESTful APIs with real-time features</p>
+          <p><strong>🔗 Microservices Architecture</strong><br/>
+          Scalable backend with Docker containers</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Akshad%20Apastambh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
@@ -120,13 +144,20 @@ class AkshadApastambh extends FullStackDeveloper {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=AkshadAp17&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-        <h4>🏆 Top Contributions</h4>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/350+-DSA%20Problems-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+        <h4>🧠 Problem Solver</h4>
+        <p>Mastered algorithms across multiple platforms</p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" />
-        <h4>⏰ Coding Time</h4>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/5+-Live%20Projects-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <h4>🚀 Project Builder</h4>
+        <p>Full-stack applications with modern tech</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Freelance-Experience-667eea?style=for-the-badge&logo=upwork&logoColor=white"/>
+        <h4>💼 Professional Work</h4>
+        <p>Real-world development experience</p>
       </td>
     </tr>
   </table>
@@ -139,15 +170,22 @@ class AkshadApastambh extends FullStackDeveloper {
 ### 💭 **Daily Inspiration**
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🎲 **Random Dev Facts**
+### 🎲 **Daily Motivation**
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117" alt="Random Dev Joke" />
 
-### 📚 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable MERN Applications](https://dev.to)
-- ⚡ [Optimizing React Performance](https://medium.com)
-- 🎯 [Full Stack Development Best Practices](https://hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+### 📚 **Learning & Growth**
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exploring-Cloud%20Architecture-4ECDC4?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Practicing-System%20Design-45B7D1?style=for-the-badge&logo=architecture&logoColor=white"/>
+</div>
+
+### 🎯 **Current Goals**
+- 🚀 Build 10 more full-stack projects in 2025
+- 🌟 Contribute to major open-source projects
+- 📱 Master React Native for mobile development  
+- ☁️ Get AWS certification
+- 🤖 Dive deeper into AI/ML technologies
 
 </div>
 
@@ -208,12 +246,12 @@ timeline
 
 ### 📊 **GitHub Profile Stats**
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshadAp17&theme=radical" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshadAp17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&icon_color=FCB045&text_color=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshadAp17&theme=radical" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshadAp17&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&text_color=FFFFFF&layout=compact" width="48%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=AkshadAp17&theme=radical&hide_border=true&background=0D1117,667eea,764ba2&stroke=FFECD2&ring=FCB045&fire=FCB045&currStreakNum=FFFFFF" width="48%"/>
 </div>
 
 </div>
