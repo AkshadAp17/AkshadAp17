@@ -63,97 +63,34 @@ class AkshadApastambh extends FullStackDeveloper {
   <img src="https://github-readme-streak-stats.vercel.app?user=AkshadAp17&theme=synthwave&hide_border=true&background=0D1117,667eea,764ba2&stroke=FFECD2&ring=FCB045&fire=FCB045&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFECD2&sideLabels=FFECD2&dates=FFFFFF" width="70%"/>
 </div>
 
-## 🛠️ **My Complete Tech Universe**
+## 🛠️ **My Tech Universe**
 
 <div align="center">
 
-### 🎨 **Frontend Technologies**
+### 🎨 **Frontend Mastery**
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,javascript,html,css,tailwind&perline=5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap,sass,styled-components,redux,zustand,framermotion,figma,xd,photoshop,materialui&perline=5" />
-  <img src="https://skillicons.dev/icons?i=chakraui,astro,nuxt,gatsby,storybook,webpack,vite,rollup,parcel,babel&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,sass,figma&perline=5" />
 </div>
 
-### ⚡ **Backend & Server Technologies**  
+### ⚡ **Backend Excellence**  
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,koa,graphql,apollo,mongodb,mysql,postgresql&perline=5" />
-  <img src="https://skillicons.dev/icons?i=redis,firebase,supabase,prisma,sequelize,typeorm,jwt,socketio,nginx,apache&perline=5" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch,rabbitmq,kafka,microservices,deno,bun,rust,go,python,java&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,firebase,sqlite,jwt,socketio,elixir&perline=5" />
 </div>
 
-### ☁️ **DevOps & Cloud Services**
+### ☁️ **Cloud & DevOps**
 <div>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,docker,kubernetes,jenkins,githubactions&perline=5" />
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,cloudflare,render,railway,digitalocean,linux,ubuntu,bash,powershell&perline=5" />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elk,splunk,datadog,newrelic,sentry,circleci,travis,gitlab&perline=5" />
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,render,heroku,docker,git,github,postman,vscode,linux&perline=5" />
 </div>
 
-### 🛠️ **Development Tools & Utilities**
+### 🤖 **AI & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,webstorm,intellij,vim,neovim,emacs&perline=5" />
-  <img src="https://skillicons.dev/icons?i=postman,insomnia,swagger,thunderclient,npm,yarn,pnpm,maven,gradle,pip&perline=5" />
-  <img src="https://skillicons.dev/icons?i=eslint,prettier,jest,cypress,playwright,selenium,vitest,mocha,chai,jasmine&perline=5" />
-</div>
-
-### 🤖 **AI/ML & Data Science**
-<div>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,anaconda,pandas,numpy,scikit-learn,r&perline=5" />
-  <img src="https://skillicons.dev/icons?i=matlab,spark,hadoop,airflow,mlflow,wandb,huggingface,openai,langchain,ollama&perline=5" />
-</div>
-
-### 📱 **Mobile & Cross-Platform**
-<div>
-  <img src="https://skillicons.dev/icons?i=react-native,flutter,dart,kotlin,swift,ionic,cordova,xamarin,unity,unreal&perline=5" />
-</div>
-
-### 🎮 **Game Development & 3D**
-<div>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,threejs,babylonjs,webgl,opengl,vulkan,directx&perline=5" />
-</div>
-
-### 🔧 **Additional Tools & Technologies**
-<div>
-  <img src="https://skillicons.dev/icons?i=figma,sketch,photoshop,illustrator,after-effects,premiere,canva,notion,slack,discord&perline=5" />
-  <img src="https://skillicons.dev/icons?i=jira,confluence,trello,asana,monday,clickup,zoom,teams,meet,webex&perline=5" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,python,r,jupyter,anaconda,npm,yarn,webpack,babel&perline=5" />
 </div>
 
 </div>
-
-## 🏆 **Featured Projects**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚀 Full Stack Projects</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-Projects-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-          <br><br>
-          <p><strong>🎯 E-Commerce Platform</strong><br/>
-          Full-featured online store with payment integration</p>
-          <p><strong>💼 Portfolio Website</strong><br/>
-          Modern responsive portfolio with animations</p>
-          <p><strong>🤖 AI Chat Application</strong><br/>
-          Real-time messaging with AI integration</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚡ Recent Work</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TypeScript-Focused-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Cloud-Deploy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-          <br><br>
-          <p><strong>🌐 SaaS Dashboard</strong><br/>
-          Multi-tenant dashboard with analytics</p>
-          <p><strong>📱 Mobile App Backend</strong><br/>
-          RESTful APIs with real-time features</p>
-          <p><strong>🔗 Microservices Architecture</strong><br/>
-          Scalable backend with Docker containers</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshadAp17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ## 📊 **Performance Dashboard**
@@ -167,20 +104,13 @@ class AkshadApastambh extends FullStackDeveloper {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/350+-DSA%20Problems-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-        <h4>🧠 Problem Solver</h4>
-        <p>Mastered algorithms across multiple platforms</p>
+      <td align="center" width="50%">
+        <img src="https://github-contributor-stats.vercel.app/api?username=AkshadAp17&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+        <h4>🏆 Top Contributions</h4>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/10+-Live%20Projects-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
-        <h4>🚀 Project Builder</h4>
-        <p>Full-stack applications with modern tech</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Freelance-Experience-667eea?style=for-the-badge&logo=upwork&logoColor=white"/>
-        <h4>💼 Professional Work</h4>
-        <p>Real-world development experience</p>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" />
+        <h4>⏰ Coding Time</h4>
       </td>
     </tr>
   </table>
@@ -193,24 +123,11 @@ class AkshadApastambh extends FullStackDeveloper {
 ### 💭 **Daily Inspiration**
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🎲 **Daily Motivation**
+### 🎵 **Currently Vibing To**
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=667eea&border_color=764ba2)](https://spotify.com)
+
+### 🎲 **Random Dev Meme**
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117" alt="Random Dev Joke" />
-
-### 📚 **Learning & Growth**
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exploring-Cloud%20Architecture-4ECDC4?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Practicing-System%20Design-45B7D1?style=for-the-badge&logo=architecture&logoColor=white"/>
-</div>
-
-### 🎯 **Current Goals**
-- 🚀 Build 15 more full-stack projects in 2025
-- 🌟 Contribute to 5+ major open-source projects
-- 📱 Master React Native & Flutter for mobile development  
-- ☁️ Get AWS Solutions Architect certification
-- 🤖 Master AI/ML technologies and build ML models
-- 🎮 Explore game development with Unity
-- 🌐 Learn Web3 and blockchain development
 
 </div>
 
@@ -265,19 +182,15 @@ timeline
 
 </div>
 
-## 📈 **GitHub Analytics**
+## 🎮 **Fun Corner**
 
 <div align="center">
 
-### 📊 **Detailed Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshadAp17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&icon_color=FCB045&text_color=FFFFFF" width="100%"/>
-</div>
+### 🐍 **GitHub Snake Game**
+![Snake Game](https://github.com/AkshadAp17/AkshadAp17/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&text_color=FFFFFF&layout=compact" width="48%"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=AkshadAp17&theme=radical&hide_border=true&background=0D1117,667eea,764ba2&stroke=FFECD2&ring=FCB045&fire=FCB045&currStreakNum=FFFFFF" width="48%"/>
-</div>
+### 📈 **Metrics Dashboard**
+![Metrics](https://metrics.lecoq.io/AkshadAp17?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
 
 </div>
 
