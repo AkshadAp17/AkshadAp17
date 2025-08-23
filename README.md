@@ -1,39 +1,4 @@
-## 🏆 **Featured Projects**
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚀 Full Stack Projects</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Next.js-Projects-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-          <br><br>
-          <p><strong>🎯 E-Commerce Platform</strong><br/>
-          Full-featured online store with payment integration</p>
-          <p><strong>💼 Portfolio Website</strong><br/>
-          Modern responsive portfolio with animations</p>
-          <p><strong>🤖 AI Chat Application</strong><br/>
-          Real-time messaging with AI integration</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚡ Recent Work</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TypeScript-Focused-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Cloud-Deploy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-          <br><br>
-          <p><strong>🌐 SaaS Dashboard</strong><br/>
-          Multi-tenant dashboard with analytics</p>
-          <p><strong>📱 Mobile App Backend</strong><br/>
-          RESTful APIs with real-time features</p>
-          <p><strong>🔗 Microservices Architecture</strong><br/>
-          Scalable backend with Docker containers</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Akshad%20Apastambh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
 
@@ -98,39 +63,97 @@ class AkshadApastambh extends FullStackDeveloper {
   <img src="https://github-readme-streak-stats.vercel.app?user=AkshadAp17&theme=synthwave&hide_border=true&background=0D1117,667eea,764ba2&stroke=FFECD2&ring=FCB045&fire=FCB045&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFECD2&sideLabels=FFECD2&dates=FFFFFF" width="70%"/>
 </div>
 
-## 🛠️ **My Tech Universe**
+## 🛠️ **My Complete Tech Universe**
 
 <div align="center">
 
 ### 🎨 **Frontend Technologies**
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,tailwind,bootstrap&perline=5" />
-  <img src="https://skillicons.dev/icons?i=sass,styled-components,redux,zustand,framermotion,figma,xd,photoshop,materialui,chakraui&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,typescript,javascript,html,css,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,sass,styled-components,redux,zustand,framermotion,figma,xd,photoshop,materialui&perline=5" />
+  <img src="https://skillicons.dev/icons?i=chakraui,astro,nuxt,gatsby,storybook,webpack,vite,rollup,parcel,babel&perline=5" />
 </div>
 
 ### ⚡ **Backend & Server Technologies**  
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,graphql,apollo,mongodb,mysql,postgresql,redis&perline=5" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,sequelize,jwt,socketio,websocket,nginx,apache,elasticsearch&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,koa,graphql,apollo,mongodb,mysql,postgresql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=redis,firebase,supabase,prisma,sequelize,typeorm,jwt,socketio,nginx,apache&perline=5" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,rabbitmq,kafka,microservices,deno,bun,rust,go,python,java&perline=5" />
 </div>
 
 ### ☁️ **DevOps & Cloud Services**
 <div>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,docker,kubernetes,jenkins,githubactions&perline=5" />
-  <img src="https://skillicons.dev/icons?i=terraform,cloudflare,render,railway,digitalocean,linux,ubuntu,bash,prometheus,grafana&perline=5" />
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,cloudflare,render,railway,digitalocean,linux,ubuntu,bash,powershell&perline=5" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elk,splunk,datadog,newrelic,sentry,circleci,travis,gitlab&perline=5" />
 </div>
 
 ### 🛠️ **Development Tools & Utilities**
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,webstorm,vim,postman,insomnia,swagger&perline=5" />
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,webpack,vite,rollup,babel,eslint,prettier,jest&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,webstorm,intellij,vim,neovim,emacs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=postman,insomnia,swagger,thunderclient,npm,yarn,pnpm,maven,gradle,pip&perline=5" />
+  <img src="https://skillicons.dev/icons?i=eslint,prettier,jest,cypress,playwright,selenium,vitest,mocha,chai,jasmine&perline=5" />
+</div>
+
+### 🤖 **AI/ML & Data Science**
+<div>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,anaconda,pandas,numpy,scikit-learn,r&perline=5" />
+  <img src="https://skillicons.dev/icons?i=matlab,spark,hadoop,airflow,mlflow,wandb,huggingface,openai,langchain,ollama&perline=5" />
+</div>
+
+### 📱 **Mobile & Cross-Platform**
+<div>
+  <img src="https://skillicons.dev/icons?i=react-native,flutter,dart,kotlin,swift,ionic,cordova,xamarin,unity,unreal&perline=5" />
+</div>
+
+### 🎮 **Game Development & 3D**
+<div>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,threejs,babylonjs,webgl,opengl,vulkan,directx&perline=5" />
+</div>
+
+### 🔧 **Additional Tools & Technologies**
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,sketch,photoshop,illustrator,after-effects,premiere,canva,notion,slack,discord&perline=5" />
+  <img src="https://skillicons.dev/icons?i=jira,confluence,trello,asana,monday,clickup,zoom,teams,meet,webex&perline=5" />
 </div>
 
 </div>
+
+## 🏆 **Featured Projects**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=ecommerce-mern&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 Full Stack Projects</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Next.js-Projects-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+          <br><br>
+          <p><strong>🎯 E-Commerce Platform</strong><br/>
+          Full-featured online store with payment integration</p>
+          <p><strong>💼 Portfolio Website</strong><br/>
+          Modern responsive portfolio with animations</p>
+          <p><strong>🤖 AI Chat Application</strong><br/>
+          Real-time messaging with AI integration</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ Recent Work</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-Focused-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Cloud-Deploy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+          <br><br>
+          <p><strong>🌐 SaaS Dashboard</strong><br/>
+          Multi-tenant dashboard with analytics</p>
+          <p><strong>📱 Mobile App Backend</strong><br/>
+          RESTful APIs with real-time features</p>
+          <p><strong>🔗 Microservices Architecture</strong><br/>
+          Scalable backend with Docker containers</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 **Performance Dashboard**
@@ -150,7 +173,7 @@ class AkshadApastambh extends FullStackDeveloper {
         <p>Mastered algorithms across multiple platforms</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/5+-Live%20Projects-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/10+-Live%20Projects-764ba2?style=for-the-badge&logo=vercel&logoColor=white"/>
         <h4>🚀 Project Builder</h4>
         <p>Full-stack applications with modern tech</p>
       </td>
@@ -181,11 +204,13 @@ class AkshadApastambh extends FullStackDeveloper {
 </div>
 
 ### 🎯 **Current Goals**
-- 🚀 Build 10 more full-stack projects in 2025
-- 🌟 Contribute to major open-source projects
-- 📱 Master React Native for mobile development  
-- ☁️ Get AWS certification
-- 🤖 Dive deeper into AI/ML technologies
+- 🚀 Build 15 more full-stack projects in 2025
+- 🌟 Contribute to 5+ major open-source projects
+- 📱 Master React Native & Flutter for mobile development  
+- ☁️ Get AWS Solutions Architect certification
+- 🤖 Master AI/ML technologies and build ML models
+- 🎮 Explore game development with Unity
+- 🌐 Learn Web3 and blockchain development
 
 </div>
 
@@ -240,11 +265,11 @@ timeline
 
 </div>
 
-## 🎮 **Fun Corner**
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
-### 📊 **GitHub Profile Stats**
+### 📊 **Detailed Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshadAp17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&icon_color=FCB045&text_color=FFFFFF" width="100%"/>
 </div>
