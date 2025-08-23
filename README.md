@@ -1,237 +1,225 @@
-## 🏆 **Featured Projects**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=ecommerce-mern&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-</div>
-
-## 🔥 **Coding Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2&layout=compact" width="50%"/>
-</div><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Akshad%20Apastambh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50&descSize=20"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Crafting+Digital+Experiences;%F0%9F%A7%A0+Solving+Complex+Problems;%F0%9F%A4%96+Building+AI+Solutions;%F0%9F%8C%9F+Contributing+to+Open+Source" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" align="right" alt="Coding Magic" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-</div>
-
-## 🎭 **Who Am I?**
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AkshadAp17&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117,667eea,764ba2&title_color=FFECD2&icon_color=FCB045&text_color=FFFFFF&custom_title=⚡%20Akshad's%20GitHub%20Stats" width="48%"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshadAp17&show_icons=true&theme=synthwave&layout=compact&hide_border=true&bg_color=0D1117,764ba2,667eea&title_color=FFECD2&text_color=FFFFFF&custom_title=🎨%20Code%20Palette" width="48%"/>
-
-<br clear="both"/>
-
-```javascript
-class AkshadApastambh extends FullStackDeveloper {
-  constructor() {
-    super();
-    this.name = "Akshad Apastambh";
-    this.title = "Full Stack Wizard 🧙‍♂️";
-    this.location = "Nanded, Maharashtra, India 🇮🇳";
-    this.education = {
-      degree: "Bachelor's in Computer Science",
-      institution: "SGGSITE Nanded",
-      period: "2022-2026",
-      cgpa: "Maintaining Excellence 📈"
-    };
-  }
-
-  getCurrentStatus() {
-    return {
-      🔭 building: ["AI-Powered Applications", "Scalable Web Platforms"],
-      🌱 learning: ["Advanced MERN Stack", "Machine Learning", "Cloud Architecture"],
-      👯 collaborating: ["Open Source Projects", "Innovative Solutions"],
-      💼 working: "Freelance Full Stack Developer",
-      🧠 solved: "350+ DSA Problems",
-      ⚡ superpower: "Turning Coffee into Code",
-      🎯 goal: "Making the web more beautiful, one commit at a time"
-    };
-  }
-
-  getSkillLevel() {
-    return {
-      frontend: "⭐⭐⭐⭐⭐",
-      backend: "⭐⭐⭐⭐⭐", 
-      problemSolving: "⭐⭐⭐⭐⭐",
-      debugging: "⭐⭐⭐⭐⭐",
-      coffeeConsumption: "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
-    };
-  }
-}
-```
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=AkshadAp17&theme=synthwave&hide_border=true&background=0D1117,667eea,764ba2&stroke=FFECD2&ring=FCB045&fire=FCB045&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFECD2&sideLabels=FFECD2&dates=FFFFFF" width="70%"/>
-</div>
-
-## 🛠️ **My Tech Universe**
-
-<div align="center">
-
-### 🎨 **Frontend Technologies**
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,tailwind,bootstrap&perline=5" />
-  <img src="https://skillicons.dev/icons?i=sass,styled-components,redux,zustand,framermotion,figma,xd,photoshop,materialui,chakraui&perline=5" />
-</div>
-
-### ⚡ **Backend & Server Technologies**  
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,graphql,apollo,mongodb,mysql,postgresql,redis&perline=5" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,prisma,sequelize,jwt,socketio,websocket,nginx,apache,elasticsearch&perline=5" />
-</div>
-
-### ☁️ **DevOps & Cloud Services**
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,docker,kubernetes,jenkins,githubactions&perline=5" />
-  <img src="https://skillicons.dev/icons?i=terraform,cloudflare,render,railway,digitalocean,linux,ubuntu,bash,prometheus,grafana&perline=5" />
-</div>
-
-### 🛠️ **Development Tools & Utilities**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,webstorm,vim,postman,insomnia,swagger&perline=5" />
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,webpack,vite,rollup,babel,eslint,prettier,jest&perline=5" />
-</div>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=ecommerce-mern&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" width="48%"/>
-</div>
-
-## 📊 **Performance Dashboard**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshadAp17&custom_title=🔥%20Contribution%20Heatmap&bg_color=0D1117&color=667eea&line=764ba2&point=FFECD2&area=true&hide_border=true&area_color=667eea"/>
-</div>
-
-## 🎯 **Achievement Showcase**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=AkshadAp17&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-        <h4>🏆 Top Contributions</h4>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkshadAp17&theme=radical&hide_border=true&bg_color=0D1117,667eea,764ba2" />
-        <h4>⏰ Coding Time</h4>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌟 **Interactive Elements**
+# 👋 Hi there! I'm Akshad Apastambh
 
 <div align="center">
   
-### 💭 **Daily Inspiration**
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### 🎲 **Random Dev Facts**
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117" alt="Random Dev Joke" />
-
-### 📚 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable MERN Applications](https://dev.to)
-- ⚡ [Optimizing React Performance](https://medium.com)
-- 🎯 [Full Stack Development Best Practices](https://hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Student;Problem+Solver+%7C+350%2B+DSA+Problems;AI+%26+Web+Development+Enthusiast)
 
 </div>
 
-## 🌐 **Connect & Collaborate**
+---
+
+## 💫 About Me
+
+🎓 **Computer Science Student** at Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (2022-2026)  
+💼 **Freelance Full Stack Developer** specializing in automotive marketplace solutions  
+🚀 Passionate about creating **scalable web applications** and **AI-powered solutions**  
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://akshadapastambh.dev)
+| 🔭 Currently Working On | 🌱 Learning | 👯 Looking to Collaborate |
+|:---:|:---:|:---:|
+| AI-powered Applications | Advanced MERN Stack | Open Source Projects |
+| Scalable Web Platforms | Cloud Technologies | Innovative Solutions |
+| Real-time Applications | DevOps Practices | Startup Projects |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshad-apastambh-9726332a1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a_ap_57470)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a_ap_57470)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ak_akshad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Akshad168322)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshadapastambh37@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshadapastambh37@gmail.com)
 
 </div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### 🎨 Styling & UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🧠 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔗 Additional Technologies
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🚀 **Let's Build Something Amazing Together!**
-
-[![Collaborations Welcome](https://img.shields.io/badge/Collaborations-Welcome-brightgreen?style=for-the-badge&logo=handshake)](mailto:akshadapastambh37@gmail.com)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge&logo=open-source-initiative)](https://github.com/AkshadAp17)
-[![Mentorship](https://img.shields.io/badge/Mentorship-Available-blue?style=for-the-badge&logo=graduation-cap)](mailto:akshadapastambh37@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshadAp17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshadAp17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-## 🎨 **Visual Timeline**
 
 <div align="center">
   
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#667eea', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#764ba2', 'lineColor': '#ffecd2'}}}%%
-timeline
-    title 🚀 My Development Journey
-    
-    2022 : Started CS Journey
-         : First "Hello World"
-         : Discovered Web Development
-    
-    2023 : MERN Stack Mastery
-         : First Freelance Project
-         : Open Source Contributions
-         
-    2024 : AI Integration Expert
-         : 350+ DSA Problems Solved
-         : Advanced Full Stack Projects
-         
-    2025 : Industry Ready Developer
-         : Graduation Year
-         : Next Big Adventure
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshadAp17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-## 🎮 **Fun Corner**
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-### 📊 **GitHub Profile Stats**
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshadAp17&theme=radical" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkshadAp17&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
+---
+
+## 🎯 Coding Journey
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshadAp17&theme=radical" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshadAp17&theme=radical" width="48%"/>
+
+### 💪 Problem Solving Stats
+**350+ DSA Problems Solved** across various platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
+
 </div>
+
+---
+
+## 🎨 Activity Graph
+
+<div align="center">
+  
+[![Akshad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshadAp17&theme=tokyo-night&hide_border=true)](https://github.com/AkshadAp17)
+
+</div>
+
+---
+
+## 📈 Contribution Calendar
+
+<div align="center">
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/AkshadAp17/AkshadAp17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/AkshadAp17/AkshadAp17/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/AkshadAp17/your-awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshadAp17&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/AkshadAp17/another-project)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 💖 Support My Work
+
+If you like my projects and want to support my work:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-username)
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AkshadAp17&style=for-the-badge&color=brightgreen)
+
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=AkshadAp17&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/AkshadAp17?label=Followers&style=for-the-badge&color=764ba2" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge" alt="Hire Me" />
-
-### ⭐ **If you like my work, consider giving my repos a star!** ⭐
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer&text=Keep%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Thanks%20for%20visiting%20my%20digital%20space%20🚀&descAlignY=85&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
