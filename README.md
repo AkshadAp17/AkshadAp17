@@ -1,7 +1,13 @@
 # Hi there! 👋 I'm Akshad Apastambh
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🧠+Problem+Solver+%7C+350%2B+DSA;🤖+AI+%26+Web+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+  
+  <br><br>
+  
+  **🚀 Full Stack Developer | 🧠 Problem Solver | 350+ DSA Problems Solved**
+  
+  **🤖 AI & Web Development Enthusiast | 💻 Always Learning**
 </div>
 
 ## 🎯 About Me
@@ -124,7 +130,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ak_akshad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Akshad168322)
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkshadAp17&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -135,7 +147,13 @@
   <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkshadAp17&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-## 💻 Coding Platforms
+---
+
+## 💪 Coding Journey & Problem Solving
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b1f1ae5.gif" width="150">
+</div>
 
 | Platform | Problems Solved | Rating |
 |:---:|:---:|:---:|
@@ -144,11 +162,17 @@
 | 🔵 Codeforces | 75+ | Specialist |
 | 🟢 HackerRank | 50+ | 5⭐ Gold |
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</div>
+
 ---
 
 <div align="center">
   
-**"First, solve the problem. Then, write the code."**
+**"First, solve the problem. Then, write the code." - John Johnson**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284111-680cebd7-6b7c-4fa7-8c90-9b3e14ef7b23.gif" width="300">
 
 Thanks for visiting! Let's connect and build something amazing together! 🚀
 
